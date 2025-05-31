@@ -122,3 +122,5 @@ def char_count_list(char_dict):
         count_dictionary["num"] = counts
         report_counts.append(count_dictionary)
     return report_counts
+
+    
